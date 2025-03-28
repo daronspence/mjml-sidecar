@@ -2,11 +2,7 @@ name: PHPStan
 
 on:
   workflow_dispatch:
-    inputs:
-      tagVersion:
-        description: 'Tag Version'
-        required: true
-        type: string
+
   push:
     paths:
       - '**.php'
