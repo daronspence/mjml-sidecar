@@ -2,6 +2,8 @@
 
 All notable changes to `mjml-sidecar` will be documented in this file.
 
+Updating the changelog
+
 ## 1.0.1 - 2023-10-27
 
 ### What's Changed
